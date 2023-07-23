@@ -11,6 +11,7 @@
                 "-pedantic-errors",
                 "-Wall",
                 "-Weffc++",
+                "-Werror",
                 "-Wextra",
                 "-Wconversion",
                 "-Wsign-conversion",
